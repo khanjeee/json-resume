@@ -1,208 +1,261 @@
 {
-  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "meta": {
+    "theme": "elegant"
+  },
   "basics": {
-    "name": "Amir Ali Jiwani",
-    "label": "Software Craftsman",
-    "picture": "https://en.gravatar.com/userimage/16232986/5cc37ef158c48a160aa2df2813e40336.jpg?size=400",
-    "email": "amirali.jiwani89@gmail.com",
-    "phone": "(0092) 345-2446686",
-    "website": "https://www.linkedin.com/in/amiralijiwani/",
-    "summary": "A software enthusiast.\n\nI have been working as a developer for around a decade. During this time, I have got a chance to visit various domains and technologies -- Which helped in shaping my self on how I think and work now.\n\nI like to create software and helping other developers like me around. Recently have gained interest in making more layman talks than the development intensive, as I believe everyone attached to a concept should have a right to understand it in complete and concise way.\n\nSome recent technologies I have been working are NodeJS, React, Docker, Kubernetes, Electron and other of such kind. My main focus is towards the problem solving, irrespective of the platform.",
+    "name": "Shoaib Ahmed Khan",
+    "label": "Software Architect",
+    "picture": "https://secure.gravatar.com/avatar/a54d183a144cc0dbe482279055424b5bjpg?size=400",
+    "email": "shoaibkhan105@outlook.com",
+    "phone": "(0092) 345-2767640",
+    "website": "https://www.linkedin.com/in/khanjeee/",
+    "summary": "A software enthusiast. I have been working as a developer for around a decade. During \nthis time, I have got a chance to visit various domains and technologies, which helped in\nshaping myself on how I think and work now. I like to create software and helping other\ndevelopers like me around. Some recent technologies I have been working are PHP,\nNodeJs, Docker, Java and other of such kind. My main focus is towards the problem\nsolving, irrespective of the platform",
     "location": {
-      "address": "A1-17-03, Vista Komanwel A, Jalan Jalil Perkasa 19",
-      "postalCode": "57000",
-      "city": "Bukit Jalil",
-      "countryCode": "MY",
-      "region": "Kuala Lumpur"
+      "address": "B-37 Block 7, Gulistan-e-Jauhar",
+      "postalCode": "73500",
+      "city": "Karachi",
+      "countryCode": "PK",
+      "region": ""
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "amiralijiwani",
-        "url": "https://www.linkedin.com/in/amiralijiwani/"
+        "username": "khanjeee",
+        "url": "https://www.linkedin.com/in/khanjeee/"
+      },
+      {
+        "network": "Twitter",
+        "username": "ShoaibKaan",
+        "url": "https://twitter.com/ShoaibKaan"
       },
       {
         "network": "Github",
-        "username": "aajiwani",
-        "url": "https://github.com/aajiwani"
+        "username": "khanjeee",
+        "url": "https://github.com/khanjeee"
       }
     ]
   },
   "work": [
     {
-      "name": "SEEK",
-      "company": "SEEK",
-      "location": "Kuala Lumpur, Malaysia",
-      "description": "Solving the problem of connecting the right candidate to the needful hirers",
-      "position": "Software Engineering Manager",
-      "url": "https://www.seek.com.au/",
-      "startDate": "2020-02-01",
-      "endDate": "2021-03-31",
-      "summary": "SEEK is a diverse group of companies that have a unified purpose to help people live more fulfilling and productive working lives and help organisations succeed.",
+      "name": "PureVPN",
+      "company": "Gaditek",
+      "location": "Karachi, Pakistan",
+      "description": "Contributed to PureVpn's overall product & technology strategy and aligning systems with that strategy.",
+      "position": "Associate Software Architect",
+      "url": "https://www.gaditek.com/",
+      "startDate": "2020-12-31",
+      "summary": "Gaditek is a human-centric New Age company. We innovate relentlessly and are always venturing into new markets with our employees.",
       "highlights": [
-        "Contributed to SEEKs overall product & technology strategy and aligning systems with that strategy.",
-        "Ensured that systems are fit for purpose, well architected and follow current SEEK development practices.",
+        "Took the initiative, did POC and migrated Microservices behind AWS (API Gateway) which helped developers to create, publish, maintain, monitor, and secure APIs at any scale",
+        "Ensured that systems are fit for purpose, well architected and follow current PureVpn's development practices.",
         "Maintained platform health, by ensuring that our systems are secure, reliable, resilient and cost effective.",
-        "Drove customer focus to ensure that we are delivering great outcomes for our customers.",
-        "Commenced and maintained a high performing team culture that values collaboration, learning and continual improvement.",
-        "Acted as an enabler; Growing the technical skills and leadership capabilities of my team through coaching and mentoring. This involves having 1:1s with my team mates.",
-        "Lead by example; Which required me to get my hands dirty when the need is there.",
-        "Unblocked the team with what ever it took, having the complete ownership in the matters of maintaining healthy teams.",
-        "Celebrated successes and learnt from the failures; And propogated the culture through the teams and examplified it for the rest of the organization.",
-        "Paired with the Pricipal Engineer of the team, to understand the climate and the problems of the team.",
-        "Participated in and retroed the core hiring process through centralized hiring squad in the organization.",
-        "Helped the org, to move fast to the eco system of global products; Away from the local products which we were dealing with since past 25+ years"
+        "Commenced technical mentorship and support for helping level-up the skills of colleagues on the team and their continual improvement.",
+        "Participated in planning and evaluation meetings to identify problems and propose business solutions.",
+        "Participated in Code Reviews, Documentation and maintained a good team culture",
+        "Facilitated product development and fulfillment to adopt `Scrum` Agile development",
+        "Fcilitated Devops Team to integrated CI/CD pipeline to automates software delivery process",
+        "Developed Notification Centre to help Product send notifications with Ease, Increasing profits and Customer Activation. "
       ]
     },
     {
-      "name": "SEEK",
-      "company": "SEEK",
-      "location": "Kuala Lumpur, Malaysia",
-      "description": "Solving the problem of connecting the right candidate to the needful hirers",
-      "position": "Lead Software Architect",
-      "url": "https://www.seek.com.au/",
-      "startDate": "2018-05-01",
-      "endDate": "2020-01-01",
-      "summary": "SEEK is a diverse group of companies that have a unified purpose to help people live more fulfilling and productive working lives and help organisations succeed.",
+      "name": "PureVPN",
+      "company": "Gaditek",
+      "location": "Karachi, Pakistan",
+      "description": "",
+      "position": "Lead Software Engineer",
+      "url": "https://www.gaditek.com/",
+      "startDate": "2019-01-31",
+      "endDate": "2020-12-31",
+      "summary": "Gaditek is a human-centric New Age company. We innovate relentlessly and are always venturing into new markets with our employees.",
       "highlights": [
-        "Been the catalyst for transforming the organization.",
-        "Performed the duties as the JavaScript coach for the organization.",
-        "Advocated for, and implemented software best practices.",
-        "Been the communicator for various teams to maintain their health; Some times preached the organization values.",
-        "Participated as a core in hiring new and experienced talents.",
-        "Propagated automation as a culture rather an option.",
-        "Moved legacy code and data to cloud via lift & shift, green field and brown field methodologies.",
-        "Performed the duties of deciding and validating sensible defaults for the organization.",
-        "Pushed cloud first approach in the org, living in an environment of Infra ops."
-      ]
-    },
-    {
-      "name": "Exact",
-      "company": "Exact",
-      "location": "Kuala Lumpur, Malaysia",
-      "description": "Cloud business software for SMEs and their accountants",
-      "position": "Senior Software Engineer (Full-Stack)",
-      "url": "https://www.exact.com/",
-      "startDate": "2016-10-01",
-      "endDate": "2018-01-01",
-      "summary": "We are Exact. We make smart business software. We are entrepreneurial and dream big, just like you. We help and encourage anyone we work with to always be the best version of themselves.",
-      "highlights": [
-        "Helped to come up with an end-to-end pipeline to build and release the product.",
-        "Performed various tasks including coding, building, testing, releasing and debugging the product.",
-        "Made massive use of automation, including development and in release cycles.",
-        "Helped to produce tools that are helpful during the lifecycle of the product. Usually as a need to support the product.",
+        "Participated in processes concerning the architecture to meet inter departmental needs.",
+        "Facilitate product development and fulfillment by adopting ‘Scrum’ Agile development methodology.",
+        "Implemented Micro service architecture between API’s to make the product ready for providing PaaS (Platform as a Service) services",
+        "Implemeted Google Cloud Firestore, to remove polling from our desktop applications which helped all the application receive notification via sockets in milliseconds.",
+        "Automate processes and problem resolution to enhance the productivity of existing systems.",
         "Helped POC the product initially with our customers to set up our product owner for the success of the product."
       ]
     },
     {
-      "name": "Hexosys",
-      "company": "Hexosys",
-      "location": "Kuala Lumpur, Malaysia",
-      "description": "Albaloo is a fast growing location based advertising platform, consists of Mobile App, Web Portal, Social Media Fan Pages and 3rd Party Advertising Partners.",
+      "name": "PureVPN",
+      "company": "Gaditek",
+      "location": "Karachi, Pakistan",
+      "description": "",
       "position": "Senior Software Engineer",
-      "url": "https://www.hexosys.com/",
-      "startDate": "2015-11-01",
-      "endDate": "2016-10-01",
-      "summary": "Accomplishing more than 150 main products as cutting-edge technology protocol/bus analyzers, reveals great ability of HexoSys to delivering new projects within the field of expertise with complete maturity and high competitive to the global high-tech market.",
+      "url": "https://www.gaditek.com/",
+      "startDate": "2019-01-31",
+      "endDate": "2020-12-31",
+      "summary": "Gaditek is a human-centric New Age company. We innovate relentlessly and are always venturing into new markets with our employees.",
       "highlights": [
-        "Helped in complete overhaul and rewriting parts of the Albaloo product.",
-        "Added the ability of targetting users through multi communication channels (SMS, emails, mobile notifications etc).",
-        "Helped product with identifying with and implementing the ability of geo fencing the ads in the current platform.",
-        "Introduced a custom framework on top of Laravel's current implementation to support custom JavaScript loading in the layout.",
-        "Initialized and laid the basis for automation in the project; Through simplifying and making some tedious task, process oriented."
+        "Responsible for the development and maintenance of the system's network services\n. This includes returning the fastest servers, protecting the network from being abused.",
+        "Develop Rest APIs to facilitate VPN servers to handle the network activity efficiently.",
+        "Develop Microservice Architecture to assist PureVPN in providing PaaS services to its Business customers.",
+        "Implemented Database optimization Techniques to enhane performance of the Application"
       ]
     },
     {
-      "name": "Pi-Labs",
-      "company": "Pi-Labs",
+      "name": "Goodcore Software",
+      "company": "Goodcore Software",
       "location": "Karachi, Pakistan",
-      "description": "A service provider for various kinds of software needs to our clients.",
-      "position": "Chief Technology Officer",
-      "url": "http://pilabs.com/",
-      "startDate": "2010-06-01",
-      "endDate": "2014-02-01",
-      "summary": "Our passion for mobile software and our ability to deliver engaging solutions has given us much acclaim. Early adoption of Windows Phone 7 meant we were one of the first companies globally to have delivered an app to the Microsoft Marketplace, yet our expertise encompasses the breadth of the smartphone ecosystems including iOS, Android and Palm’s WebOS.",
+      "description": "",
+      "position": "Senior Software Engineer",
+      "url": "https://www.goodcore.co.uk",
+      "startDate": "2015-06-10",
+      "endDate": "2016-06-01",
+      "summary": "Analyzed code and engineer well-researched, cost-effective and responsive solutions.",
       "highlights": [
-        "This was my earliest position as a technical leader and I myself were going through a major learning.",
-        "Helped organization with various services based project; Dealth with various platforms and technologies.",
-        "Created, architected and maintained a home grown idea that later shifted to become Garfield's official game, known as Feed Garfield. The internal project name was Candy Pot. It was a team effort.",
-        "Created, architected and maintained an idea in collaboration with our partner. It was a video and audio processing app; These were early days when snapchat didn't existed; The project was named Gulf Talk.",
-        "Worked on an aggregator banking solution known as Mobank for UK based banks. Clients were able to control their various accounts through this app.",
-        "Pioneered the space of Windows 8 initial launching apps for Microsoft Singapore; Some of them were CNA, DBS Bank Singapore, The Straits Times Singapore",
-        "Worked on various 2d and 3d games.",
-        "Used and improved Cocos2dx platform to flourish 2d games on cross platform technologies.",
-        "Written several frameworks my self and opensourced it later to help the community; To mention some: EasyNDK-for-cocos2dx, Easy-CURL-for-PHP",
-        "Gelled along with various individual contributors to help organization meet its financial goal and beyond.",
-        "Presented learnings and findings at various university events and global technology events."
+        "Review systems capabilities, workflow and limitations in order to design programs to improve performance.",
+        "Document work-time and processes as specified by management.",
+        "Mentored Junior resources, to level-up their skills.",
+        "Develop, Maintain and provide support for the comapnies on going projects."
+      ]
+    },
+    {
+      "name": "Ephlux",
+      "company": "Ephlux",
+      "location": "Karachi, Pakistan",
+      "description": "",
+      "position": "Senior Software Engineer",
+      "url": "https://www.ephlux.com/",
+      "startDate": "2012-09-01",
+      "endDate": "2015-06-01",
+      "summary": "Helped the Company win Big by Research and Development.",
+      "highlights": [
+        "Commenced development of modules on Java (AdobeCq5) which helped company win projects from the worlds biggest hotels chain (Caesars Palace)",
+        "Developed Numerous Rest Services using (Laravel,CakePHP and CodeIgniter), for applications from different domains including (Transportation,Social-Media,Food & Beverages etc.)",
+        "This is the place where I laid my hands on Adroid(Sdk) for the first time, developed a social media platform for IKEA(Saudia)",
+        "Worked on Different Content Management Systems including (Drupal,Wordpress,ExpressionEngine,Moodle and Joomla) & and delivered projects successfully, producing happy cleints"
+      ]
+    },
+    {
+      "name": "Tradekey (Pvt) Ltd.",
+      "company": "Tradekey (Pvt) Ltd.",
+      "location": "Karachi, Pakistan",
+      "description": "",
+      "position": "Product Engineer",
+      "url": "https://www.tradekey.com",
+      "startDate": "2011-01-19",
+      "endDate": "2012-08-25",
+      "summary": "Learnt Software Development Practises and Implemented them for the good of the Product",
+      "highlights": [
+        "Product development & Maintenance using ( MVC )in PHP.",
+        "Email marketing using MySQL queries on (Interspire).",
+        "Writing Complex queries to generate reports from a database of 6 Million users, used for running marketing campaigns",
+        "Implemented query optimization Techniques to increase performance of the queries performed on huge datasets."
       ]
     }
   ],
   "education": [
     {
-      "institution": "FAST - NUCES",
-      "name": "National University of Computer and Emerging Sciences",
-      "url": "http://khi.nu.edu.pk",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2006-06-01",
-      "endDate": "2010-07-01",
+      "institution": "Uok",
+      "name": "University of Karachi",
+      "area": "(B.S) Computer Science",
+      "url": "https://uok.edu.pk/",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2007-12-31",
+      "endDate": "2011-12-31",
       "courses": [
         "Digital Logic Design",
         "Assembly Language",
         "Data Structures",
-        "Design Patterns",
         "Web Programming",
         "Compiler Construction",
-        "Concurrent and Distributed Systems",
-        "High Performance Computing",
+        "Distributed Systems",
         "Database Design"
       ]
     }
   ],
-  "awards": [
+  "certificates": [
     {
-      "title": "IASA IT Architecture Core (ITAC) – CITAF Certification",
-      "date": "2015-05-01",
-      "awarder": "Iasa Global",
-      "summary": "Anchors to the beginning of Architect position and responsibilities"
+      "name": "Certified ScrumMaster® (CSM®)",
+      "issuer": "Scrum Alliance",
+      "date": "2021-09-30",
+      "url": "https://bcert.me/syakycqcn",
+      "summary": " Helps gain a solid understanding of Scrum and learn practical ways to apply it on your team and throughout your organization."
     },
     {
-      "title": "Won the GIKI SOFTCOM 08 (Programming Competition)",
-      "date": "2008-04-01",
-      "awarder": "GIKI University Pakistan",
-      "summary": "A speed programming competition of national level"
+      "name": "Programming in HTML5 with JavaScript and CSS3",
+      "issuer": "Microsoft",
+      "date": "2013-01-31",
+      "summary": "Provides an accelerated introduction to help learn HTML5, JavaScript, CSS, and other basic programming skills"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Configuring Micro-services Behind AWS API Gateway and Securing it with oAuth 2.0",
+      "publisher": "LinkedIn",
+      "releaseDate": "2020-02-01",
+      "url": "https://www.linkedin.com/pulse/configuring-micro-services-behind-aws-api-gateway-oauth-ahmed-khan/",
+      "summary": "This Article explains integration of Amazon Api Gateway with Microservices, secured by Amazon Cognito's oAuth 2.0."
     }
   ],
   "skills": [
     {
       "name": "Web Development",
-      "level": "Expert",
+      "level": "Advanced",
       "keywords": [
+        "PHP",
+        "CodeIgniter",
+        "Laravel",
+        "Lumen",
+        "Drupal",
+        "Wordpress",
+        "MySql",
         "HTML",
-        "Javascript"
+        "Css",
+        "Java",
+        "Javascript",
+        "AdobeCq5",
+        "Google Cloud Firestore",
+        "NewRelic",
+        "MixPanel",
+        "Adjust - Sdk",
+        "AppsFlyer",
+        "Whmcs",
+        "Recurly",
+        "RevenueCat",
+        "Purchasely",
+        "Git",
+        "FusionAuth",
+        "Microservices",
+        "Amazon API Gateway",
+        "Amazon Cognito",
+        "Amazon Ec2",
+        "Amazon RDS",
+        "Amazon Cloudfront",
+        "Amazon S3",
+        "Lambda",
+        "Swagger",
+        "OAuth 2.0",
+        "RESTful API",
+        "Firewall (CloudFlare)",
+        "Elastic Load Balancers",
+        "Composer"
       ]
     },
     {
-      "name": "Software Architecture",
+      "name": "Mobile Development",
+      "level": "Intermediate",
+      "keywords": [
+        "Android SDK (Java)"
+      ]
+    },
+    {
+      "name": "Agile Development",
       "level": "Advanced",
       "keywords": [
-        "Design-patterns",
-        "Distributed systems",
-        "Scalability",
-        "Maintainability"
+        ""
       ]
     },
     {
       "name": "Software Development",
       "level": "Advanced",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Problem Solving",
       "level": "Advanced",
-      "keywords": [
-      ]
+      "keywords": []
     }
   ],
   "languages": [
@@ -217,70 +270,241 @@
   ],
   "interests": [
     {
-      "name": "Home improvements & engineering",
+      "name": "Sports",
       "keywords": [
-        "Plumbing",
-        "Electric-appliances",
-        "Civil engineering"
+        "Cricket",
+        "Snooker",
+        "Swimming"
       ]
     },
     {
-      "name": "Software based home solutions",
+      "name": "Pets",
       "keywords": [
-        "IoT",
-        "Home-server",
-        "plex",
-        "raspberry-pi"
-      ]
-    },
-    {
-      "name": "Watching documentaries",
-      "keywords": [
-        "Idiocracy",
-        "Lord-of-the-rings",
-        "movies",
-        "documentaries"
+        "Birds",
+        "Goats",
+        "Buffaloes",
+        "Cats"
       ]
     }
   ],
   "references": [
     {
-      "name": "Heinrich Rust",
-      "reference": "Amir is surely missed by his team/peers and I think any company would find great benefit with the addition of Amir to their leadership and technical team. Wish you all the best Amir and hope our paths cross again."
+      "name": "Umair Khan",
+      "reference": "Shoaib did not fail me a single time throughout our tenure of working together. He is a dedicated, ambitious and result driven leader. If you ever need someone to deliver under pressure, no slip-ups, just results, Shoaib is your man! He ss ready to deal with difficult situations and solve the problems on time. I wish him all the very best for his future endeavors. "
     },
     {
-      "name": "Paul Fitzgerald",
-      "reference": "As a colleague Amir is friendly, personable, has an easy manner and great sense of humour. A clear communicator with a voice for radio, Amir is wise head on young shoulders."
+      "name": "Tariq Mehmood Khatri",
+      "reference": "Shoaib is a problem solver no matter how complex the problem is. He foresees the use cases that many ignore. Brings energy into the team by his unique friendly attitude. He has the ability to work on any new technology. With all this, he’s an amazing human being. Cheers !"
     }
   ],
   "projects": [
     {
-      "name": "Miss Direction",
-      "description": "A mapping engine that misguides you",
+      "name": "PureVPN",
+      "description": "PureVPN is a VPN service provider that offers the most secure and fastest VPN service.",
       "highlights": [
-        "Won award at AIHacks 2016",
-        "Built by all women team of newbie programmers",
-        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+        "Responsible for Planning, Code Reviews, Documentation of the newly built features.",
+        "Responsible for technical mentorship and support for helping level-up the skills of colleagues on the team.",
+        "I am also Responsible for writing Rest Services under Microservice Architecture to assist PureVPN in providing PaaS services to its customers.",
+        "Facilitate product development and fulfillment by adopting ‘Scrum’ Agile development methodology."
       ],
       "keywords": [
-        "GoogleMaps",
-        "Chrome Extension",
+        "PHP",
+        "CodeIgniter",
+        "Laravel",
+        "Lumen",
+        "Serverless",
+        "NodeJs",
+        "Javascript",
+        "Microservices",
+        "AWS Web-services"
+      ],
+      "startDate": "2017-06-19",
+      "url": "https://www.purevpn.com/",
+      "roles": [
+        "Developer",
+        "Architect",
+        "Mentor"
+      ]
+    },
+    {
+      "name": "ATTRACTOR",
+      "description": "ATTRACTOR is a system developed to automate the printing and delivery of the postal mail.\nThe system allows the user to generate customized priniting material online (post-cards,broushers,flyers etc) and schedule it for automated printing and delivery to the subscribers. \nThe system also got capability of sending the printed material as email.",
+      "highlights": [
+        "I was responsible for the front and back end development of the system using \n PHP/MySQL & AngularJS."
+      ],
+      "keywords": [
+        "PHP",
+        "CodeIgniter",
+        "MySQL",
+        "AngularJs",
         "Javascript"
       ],
-      "startDate": "2016-08-24",
-      "endDate": "2016-08-24",
-      "url": "missdirection.example.com",
+      "startDate": "2015-08-19",
+      "endDate": "2016-06-24",
+      "url": "https://app.attracktor.com/",
       "roles": [
-        "Team lead",
-        "Designer"
+        "Developer",
+        "Architect"
+      ]
+    },
+    {
+      "name": "Football Pulp",
+      "description": "Football Pulp is an Android app that will keep you connected to the world of football and everything it has to offer. Whether you are looking for news, schedules, the latest gossips or updates, it can all be found within the app.\n\nFootball Pulps supports 6 major leagues namely ( English Premier League, La Liga, Bundesliga, Serie A, Primera División & Champions League). Features include Live commentary, Live Streaming, Goal Notification, Match Start Notification, Half Time notifications, Full Time Notification , Match Highlights, Time conversion w.r.t GMT, Match Reminders and many more.",
+      "highlights": [
+        "I was responsible for Architecting and Developing  RESTful API’s for the app which were responsible population UI of the application including live notifictions for Goal, Match Results, Match Breaks etc."
       ],
-      "entity": "Smoogle",
-      "type": "application"
+      "keywords": [
+        "PHP",
+        "CodeIgniter",
+        "MySQL",
+        "Javascript",
+        "RestApis",
+        "Restler",
+        "Swagger"
+      ],
+      "startDate": "2016-06-24",
+      "endDate": "2017-03-30",
+      "url": "https://play.google.com/store/apps/details?id=com.purevpn.fwc",
+      "roles": [
+        "Developer"
+      ]
+    },
+    {
+      "name": "SIRVA (Worldwide Relocation & Moving)",
+      "description": "SIRVA is a Task Tracking & Monitoring System designed for Re-locations,of a leading Relocation Management Company in Germany. The system is designed to facilitate the Organizers to Capture and Monitor Task records related to tracking assignment data or process relocation expense reports.\n\nCore system concepts are Data Capturing and Task Reminders based on Process Flows, Archive Checklist, Costs Projection and Vendor Management.\n\nSIRVA is an ERP for Relocation build on PHP using Yii framework and MySQL as a back-end to manage complex operations around international relocation management services.",
+      "highlights": [
+        "I was responsible for the development, maintenance and continious improvments in the system."
+      ],
+      "keywords": [
+        "PHP",
+        "Yii",
+        "MySQL",
+        "Javascript"
+      ],
+      "startDate": "2015-01-31",
+      "endDate": "2015-08-31",
+      "url": "https://relacs.sirva.com/relacs/",
+      "roles": [
+        "Developer",
+        "Mentor"
+      ]
+    },
+    {
+      "name": "IKEA Tawasul",
+      "description": "This application helps connect all IKEA Co-workers from across Saudi Arabia and builds a community of the IKEA Saudi Arabia family members who reside miles away from each other. The app allows Co-workers of IKEA Riyadh, IKEA Jeddah, IKEA Dhahran, 407 and any future IKEA stores to gather at one platform where they are able to connect with each other in a better way.\n",
+      "highlights": [
+        "I was responsible for the development and customization of the android application using Android SDK"
+      ],
+      "keywords": [
+        "Android(SDK)",
+        "Java",
+        "Eclipse"
+      ],
+      "startDate": "2014-02-28",
+      "endDate": "2014-12-31",
+      "url": "https://play.google.com/store/apps/details?id=com.ikea.social.android",
+      "roles": [
+        "Developer"
+      ]
+    },
+    {
+      "name": "Learning Management System (LMS)",
+      "description": "Learning management system is developed for Karachi Medical And Dental College (KMDC) which is a leading Medical and Dental college of Pakistan.\nThe system developed allows KMDC to systematically manage the learning and development of their staff and students through one consolidated system.  \n",
+      "highlights": [
+        "I was responsible for developing the Admin Panel for managing all the functions performed by the LMS."
+      ],
+      "keywords": [
+        "CodeIgniter",
+        "PHP",
+        "Javascript",
+        "GroceryCrud"
+      ],
+      "startDate": "2014-04-30",
+      "endDate": "2014-12-31",
+      "url": "https://play.google.com/store/apps/details?id=com.ikea.social.android",
+      "roles": [
+        "Developer"
+      ]
+    },
+    {
+      "name": "Unstoppable Moms | Children's Motrin®",
+      "description": "It is a Johnson & Johnson brand Motrin which launches a promotional competition campaign for their consumers in the United States of America. In this regard we worked closely with AOL’s sales and advertising team to develop this Drupal based micro site with Parallax effects and Responsive designs.\n",
+      "highlights": [
+        "I was responsible for implementing the design and functionality on Drupal 7."
+      ],
+      "keywords": [
+        "PHP",
+        "Drupal",
+        "Javascript"
+      ],
+      "startDate": "2013-05-30",
+      "endDate": "2013-08-30",
+      "url": "http://unstoppablemoms.com/",
+      "roles": [
+        "Developer"
+      ]
+    },
+    {
+      "name": "Cab2Grab",
+      "description": "London’s 1st minicab sharing app. Find taxis and passengers to share the fare with near you, with 100% secure and trusted profiles. Experience the comfort of private travel for the cost of public transport.",
+      "highlights": [
+        "I was responsible for the development of RestFull Apis for the application using CakePHP."
+      ],
+      "keywords": [
+        "CakePHP",
+        "PHP",
+        "Javascript",
+        "HTML",
+        "CSS",
+        "MySQL"
+      ],
+      "startDate": "2013-01-30",
+      "endDate": "2013-10-30",
+      "url": "http://www.cab2grab.com/",
+      "roles": [
+        "Developer"
+      ]
+    },
+    {
+      "name": "Washington Federal Bank",
+      "description": "Washington Federal Bank for Savings launched their brand new website designed in Chicago and Developed and Launched by us.\nThe website has been developed using Drupal 7.xx and has been optimized to meet the security & scalability standards required for any financial institution.\n",
+      "highlights": [
+        "I was responsible for development of the banks website."
+      ],
+      "keywords": [
+        "Drupal 7",
+        "PHP",
+        "Javascript",
+        "HTML",
+        "CSS",
+        "MySQL"
+      ],
+      "startDate": "2013-01-30",
+      "endDate": "2013-10-30",
+      "url": "http://wafedbank.com/",
+      "roles": [
+        "Developer"
+      ]
+    },
+    {
+      "name": "Caesars Palace",
+      "description": "Caesars Palace is a world renowned Las Vegas Luxury Hotel.\nThe project involved Ephlux team working on numerous mobile and desktop websites of Caesars Palace properties. All of the websites were built on Adobe CQ5 meeting the security & scalability standards set by Caesars Palace.",
+      "highlights": [
+        "Our team was responsible for development of custom components and templates in Adobe CQ5."
+      ],
+      "keywords": [
+        "AdobeCQ5",
+        "Jsp",
+        "Javascript",
+        "HTML",
+        "CSS"
+      ],
+      "startDate": "2013-01-30",
+      "endDate": "2013-10-30",
+      "url": "http://www.caesarspalace.com/deals.html",
+      "roles": [
+        "Developer"
+      ]
     }
-  ],
-  "meta": {
-    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
-    "version": "v1.0.0",
-    "lastModified": "2017-12-24T15:53:00"
-  }
+  ]
 }
